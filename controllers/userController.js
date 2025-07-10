@@ -1,5 +1,3 @@
-// controllers/userController.js
-
 exports.getAllUsers = (req, res) => {
   res.send("Fetching all users");
 };

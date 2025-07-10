@@ -1,5 +1,3 @@
-// controllers/productController.js
-
 exports.getAllProducts = (req, res) => {
   res.send("Fetching all products");
 };
